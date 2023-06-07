@@ -12,9 +12,10 @@ Built pre-seed startup’s first analytics dashboard, using Python to wrangle da
 Led first AI implementation, building a celebrity obituary automation to help generate thousands of visitors in organic traffic and a simple web app that answers prompts about a person who has died
 
 Product Manager & Squad Leader for Squadformers, Remote  		    April 2022 – Present
-Strategized a series of A/B tests for a series B fintech startup with various on-site demo experiences to increase visitor engagement, doubling the rate of sales requests per visitor
-Leveraged agile methods and a strategic combination of both custom and low-code tools for seed stage 0-to-1 client, developing fractional real estate marketplace alpha in three months
-Led team of seven in the development and approval of consumer banking alpha for web, iOS, and Android, with integrations including Unit, Plaid, Pinwheel, Triple, and Stytch
+Squadformers is a startup agency that builds software for other startups
+Strategized a series of A/B tests for a series B fintech startup called Tesorio with various on-site demo experiences to increase visitor engagement, doubling the rate of sales requests per visitor
+Leveraged agile methods and a strategic combination of both custom and low-code tools for seed stage 0-to-1 client called Dome, developing fractional real estate marketplace alpha in three months
+Led team of seven in the development and approval of consumer banking alpha (company is called Ferry) for web, iOS, and Android, with integrations including Unit, Plaid, Pinwheel, Triple, and Stytch
 
 Zero Grocery, Remote/Berkeley, CA		 	     	                        May 2020 – March 2022
 Product Manager (August 2021 – March 2022)
