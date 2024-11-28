@@ -8,20 +8,20 @@ max_file = "https://raw.githubusercontent.com/maxwellknowles/portfolio_project/m
 max_data = requests.get(max_file).text
 
 #getting keys
-openai.api_key = st.secrets["openai_key"]
+client = OpenAI(api_key=st.secrets["openai_key"], organization=st.secrets["organization"])
 
 #functions
 def max(prompt):
     with st.spinner('Generating response...'):
         try:
-            conversation = openai.ChatCompletion.create(
+            conversation = client.chat.completions.create(
             model="gpt-4o",
             messages=[
                     {"role": "system", "content": "I am a chat bot that can speak to the qualities and abilities of Maxwell Knowles, a product manager and thinker who has quickly gained experience across a number of business models and domains in the early to growth stage startup world in only three years. Maxwell believes in lightweight testing and interviews as a path to better UX, less technical debt, and stronger extensibility. He's fairly technical and loves developing product convications in the empirical. He likes to stitch a business model together with features, users, and mission. Here's Maxwell's resume: "+max_data},
                     {"role": "user", "content": prompt}
                 ]
             )
-            response = conversation['choices'][0]['message']['content']
+            response = .choices[0].message.content
         except OpenAIError as e:
             response = st.warning("Whoops! Looks like too many people were asking about Max...or, more likely, OpenAI had a problem. Try again!")
     return response
