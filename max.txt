@@ -1,44 +1,69 @@
 Maxwell Knowles 
 maxknowles27@gmail.com
 (818) 564-0362
+
 linkedin is linkedin.com/in/maxwell-knowles
 Aspasia is learnwithaspasia.com
 Chptr link is chptr.com
 Squadformers link is squadformers.com
 Zero Grocery closed in March 2022
-EXPERIENCE
-Product Analytics Consultant for Chptr, Remote			            October 2022 – Present
-Built pre-seed startup’s first analytics dashboard, using Python to wrangle data from database (Firestore, then Postgres) and visualize core metrics for product, growth, and select investor viewing
-Led first AI implementation, building a celebrity obituary automation to help generate thousands of visitors in organic traffic and a simple web app that answers prompts about a person who has died
 
-Product Manager & Squad Leader for Squadformers, Remote  		    April 2022 – Present
-Squadformers is a startup agency that builds software for other startups
-Strategized a series of A/B tests for a series B fintech startup called Tesorio with various on-site demo experiences to increase visitor engagement, doubling the rate of sales requests per visitor
-Leveraged agile methods and a strategic combination of both custom and low-code tools for seed stage 0-to-1 client called Dome, developing fractional real estate marketplace alpha in three months
-Led team of seven in the development and approval of consumer banking alpha (company is called Ferry) for web, iOS, and Android, with integrations including Unit, Plaid, Pinwheel, Triple, and Stytch
+EXPERIENCE
+Squadformers, Remote		 	     	                        		                 April 2022 – Present
+Senior Product Manager (September 2023 – Present)
+Managed development of extensible analysis engine and multiple interfaces to display the impact a client could have on the Lighthouse scores, web vitals, and page weight of prospect or customer sites
+Led product strategy for AI-powered supply chain management client, imagining and documenting core technical implementation and cultivating a test-driven, iterative orientation in the engagement
+Partnered with Head of Engineering on rapid development of a client’s compliance tool, collaborating on the data model, designing in Figma, managing QA, and creating Arcade demos for client sales
+Product Manager (April 2022 – August 2023)
+Strategized a series of A/B tests for a series B fintech startup with various on-site demo experiences to increase visitor engagement, doubling the rate of sales requests per visitor
+Crafted low-effort/high-value landing pages to identify business segments interested in a self-serve product onboarding experience, generating 83 percent more leads and validating further exploration
+Leveraged agile methods and a strategic combination of both custom and low-code tools to lead development of fractional real estate marketplace alpha in three months
+Led team of six engineers and one designer in the development, compliance, and approval of consumer neobank alpha for web, iOS, and Android
+
+Chptr, Remote		 	     	                        		           October 2022 – November 2024
+Senior Product Manager, Growth & Experimentation (October 2023 – Present)
+Leading the development of both novel and established paths for product-led growth
+Managed third-party API integration, built internal tools, and collaborated with both ops and customers to launch nine TV markets and nearly 40 affiliates, enabling broadcast revenue model
+Created numerous prototypes with OpenAI, TwelveLabs, Retool, and Streamlit to power product discovery, including chatbots, content curation, text and video generation, and memorial management	
+Product Analytics Consultant (October 2022 – September 2023)
+Built pre-seed startup’s first analytics dashboard, using Python to wrangle data from database (Firestore, then Postgres) and visualize core metrics for product, growth, and select investor viewing
+Developed ad collateral and bidding strategy for Chptr’s first paid ad experiments, increasing the user base by 15% in two weeks and generating learnings for both growth and product
+Scaffolded early push notification experiments with Braze to improve account creation and Chptr contributions, laying foundations of lifecycle marketing and product-led growth
+Led first AI implementation with OpenAI, building celebrity obituary automation to generate thousands of organic visitors and a simple web app that answers prompts about a person who has died
+
+
+Product & Strategy Consultant for Eikona, Remote			       October 2021 – April 2022
+Introduced agile methodology, user research, and business model development to bootstrapped NFT gaming startup
+Collaborated with founder on pitch deck and an interactive web app to test tokenomics
 
 Zero Grocery, Remote/Berkeley, CA		 	     	                        May 2020 – March 2022
 Product Manager (August 2021 – March 2022)
-Scaffolded and led release strategy for Zero’s first delivery windows option, allowing Zero to offer the feature on selected days and regions to ensure a safe, cost-sensitive, and customer-pleasing rollout
+Scaffolded and led release strategy for an extensible delivery windows feature, allowing Zero to offer the option flexibly to ensure a safe, cost-sensitive, and customer-pleasing rollout
 Led development of substitutions feature, winning back 20% of potential out-of-stock revenue loss
+Pulled and manipulated Shopify and inFlow data via API GET endpoints and Python, writing and automating scripts in GCP that surfaced refund, out-of-stock, demand forecasting, and alcohol data
+Stitched GCP, Google Sheets, Python, and Streamlit together to release Zero’s most comprehensive analytics web app, providing insight into item popularity, order metrics, order location, and more
 Associate Product Manager (May 2020 – July 2021)
 Led design and hands-on implementation of a gig delivery system built on k-means clustering, dropping Zero’s cost per delivery by 50%, automating driver signup, and increasing driver cohort 10x
 Oversaw development and release strategy for new picker app — based on a successful low-code prototype — decreasing average pick time per order by 40% in its first month of implementation
 
 Side Quests
 Founder of Aspasia, Remote                 	        				            January 2023 – Present
-Prototyped functional, OpenAI-powered web app with the goal of expanding opportunity to anyone, anywhere with a wifi connection by applying a framework for learning and problem solving
+Built OpenAI-powered learning tool integrating chat completion, vector embeddings, and best for learning to catalyze personal growth journeys for anyone, anywhere with a wifi connection
 
-Volunteer Coach for CMS Track and Field, Claremont, CA                 	        January 2023 – May 2023
-Volunteered at alma mater while continuing training, providing structure and individualized feedback to college athletes
-All four SCIAC Championship participants scored, two made podium, and one was champion
+LEADERSHIP EXPERIENCE
+Javelin Thrower for CMS Track and Field, Claremont, CA                           January 2017 – May 2022 
+Two-time NCAA DIII Track & Field Championships national qualifier (2019, 2022)
+Two-time USTFCCCA All-West Region honoree (2019, 2022)
+Three-time all-conference athlete (2018, 2019, 2022); conference champion in 2019
+Voted Men’s Team Captain and nominated for CMS Junior Athlete of the Year in 2019
 
 EDUCATION
-Claremont Graduate University, Claremont, CA 				            	         May 2022
+Claremont Graduate University, Claremont, CA 				            	         May 2022 
 Certificate in Entrepreneurship
-Claremont McKenna College, Claremont, CA 					            December 2020
-Bachelor of Arts in Philosophy, Politics, and Economics     	 			       	 
+Claremont McKenna College, Claremont, CA 					            December 2020 
+Bachelor of Arts in Philosophy, Politics, and Economics     	 			       	 	Thesis: “Populism: An Exploration into the American Case Through the Academic Literature, Data Analysis, and Fiction”
 
 SKILLS & TOOLS
-Technical: Python, R, MQL, SQL, Excel/Google Sheets, Google Analytics, Pendo, Streamlit
-Management & Design: Scrum, Notion, Jira, Linear, Figma, Trello, Miro, Whimsical, Glide Apps
+Technical: Python, R, SQL, MQL, Google Sheets, Mixpanel, Google Analytics, Pendo, Retool, Streamlit
+Management & Design: Scrum, Notion, Jira, Linear, Trello, Miro, Whimsical, Figma, Glide Apps
+Third-Party APIs: OpenAI, TwelveLabs, Plaid, Stytch, Unit, Highnote, Pinwheel, Google Maps
