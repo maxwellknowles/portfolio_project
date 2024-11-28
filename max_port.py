@@ -1,7 +1,6 @@
 import openai
 from openai import OpenAIError
 import streamlit as st
-import streamlit_analytics
 import requests
 
 #resume data
@@ -33,11 +32,11 @@ st.set_page_config(page_title="Ask About Max", page_icon=":rocket:", layout="cen
 background_color = "black"
 text_color = "white"
 
-st.title("Ask About Max :eyes:")
+st.title("Ask About Maxwell :eyes:")
 
 response = ""
 
-streamlit_analytics.start_tracking()
+#streamlit_analytics.start_tracking()
 prompt = st.text_input("What would you like to ask?", placeholder="What are some of Max's best accomplishments?")
 
 if st.button("Submit"):
@@ -47,5 +46,5 @@ if response != "":
     styled_text = f'<div style="background-color: {background_color}; padding: 40px; border-radius: 5px;"><span style="color: {text_color};">{response}</span></div>'
     st.markdown(styled_text, unsafe_allow_html=True)
 
-streamlit_analytics.stop_tracking()
+#streamlit_analytics.stop_tracking()
 
