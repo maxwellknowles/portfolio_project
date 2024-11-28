@@ -21,7 +21,7 @@ def max(prompt):
                     {"role": "user", "content": prompt}
                 ]
             )
-            response = .choices[0].message.content
+            response = conversation.choices[0].message.content
         except OpenAIError as e:
             response = st.warning("Whoops! Looks like too many people were asking about Max...or, more likely, OpenAI had a problem. Try again!")
     return response
