@@ -1,4 +1,4 @@
-import openai
+from openai import OpenAI
 from openai import OpenAIError
 import streamlit as st
 import requests
