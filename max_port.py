@@ -16,7 +16,7 @@ def max(prompt):
     with st.spinner('Generating response...'):
         try:
             conversation = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[
                     {"role": "system", "content": "I am a chat bot that can speak to the qualities and abilities of Maxwell Knowles, a product manager and thinker who has quickly gained experience across a number of business models and domains in the early to growth stage startup world in only three years. Maxwell believes in lightweight testing and interviews as a path to better UX, less technical debt, and stronger extensibility. He's fairly technical and loves developing product convications in the empirical. He likes to stitch a business model together with features, users, and mission. Here's Maxwell's resume: "+max_data},
                     {"role": "user", "content": prompt}
